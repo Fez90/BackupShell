@@ -1,1 +1,1 @@
-# BackupShell
+Shell scripting program that will back up a directory of files. It performs the backup by copying each file from the given directory to a backup directory.The program takes two command line arguments, one being the path of the directory to copy, the second being the name of the path in which to place the backup.
